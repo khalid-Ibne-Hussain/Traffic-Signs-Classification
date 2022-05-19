@@ -53,7 +53,7 @@ classes = { 0:'Speed limit (20km/h)',
             42:'End no passing vehicle > 3.5 tons' }
 
 def image_processing(img):
-    model = load_model('./model/TSC.h5')
+    model = load_model('./TSC.h5')
     data=[]
     image = Image.open(img)
     image = image.resize((30,30))
