@@ -1,5 +1,5 @@
 ### Traffic-Signs-Classification model 
-![TSC](https://user-images.githubusercontent.com/76039658/184786514-53f90e1b-ed40-457e-902e-bfb8381fc435.png)
+![TSC](https://user-images.githubusercontent.com/76039658/184789947-ba9f0fcd-2835-438f-8dd5-f5d38d7d3bf3.png)
 
 
 ### Traffic-Signs-Classification Manual
